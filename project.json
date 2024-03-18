@@ -1,0 +1,115 @@
+{
+  "name": "TestAutomationProject_AWC_StructureManager",
+  "projectId": "13245881-8f99-45a1-8d87-f88da6518d44",
+  "description": "TestAutomationProject_AWC\r\n",
+  "main": "Main.xaml",
+  "dependencies": {
+    "UiPath.System.Activities": "[23.10.2]",
+    "UiPath.Testing.Activities": "[23.10.0]",
+    "UiPath.UIAutomation.Activities": "[23.10.3]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "23.10.0.0",
+  "projectVersion": "1.0.163508015",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "netFrameworkLazyLoading": false,
+    "isPausable": true,
+    "isAttended": false,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "workflowSerialization": "DataContract",
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false,
+    "mustRestoreAllDependencies": true,
+    "pipType": "ChildSession"
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Tests",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "dc2cbe53-4a5e-4c82-ab2d-28ecaf24db8f",
+        "testCaseType": "TestCase",
+        "fileName": "TC_01_Create_Folder.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "9d974eec-3e05-4b86-a3a4-5d084bd0f09c",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "TC_07_Create_change_for_Simple_Change.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "10796f0a-fe86-40d9-b4ac-257f80b55c35",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "TC_08_Structure_Manager_Create_New_alternate_item.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "6af08db4-d10e-4dc9-b526-df30acb7da0a",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "TC_09_Add_user_in_dba_Group.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "e163e372-729f-481d-83e4-53b0c2955664",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "TC_02_Create_Change_for_Action_Item_New.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "d6e397c2-172e-4780-8032-434acb83702b",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "TC_03_Create_Change_for_Change_Notice_New.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "50597134-bf40-4981-ba81-27c4de9fbc64",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "TC_04_Create_Change_for_Change_Request_New.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "cadb2ffc-17c1-4afb-addf-469404dad6c0",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "TC_05_Create_Change_for_Deviation_Request_New.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "c34e17ec-b7b9-444c-9d61-67a5758fd955",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "TC_06_Create_Change_for_Problem_Reports_New.xaml"
+      }
+    ],
+    "saveToCloud": false
+  },
+  "expressionLanguage": "VisualBasic",
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {},
+  "targetFramework": "Windows"
+}
